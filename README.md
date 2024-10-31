@@ -1,9 +1,8 @@
 # My octoprint main page view
 ![image](https://github.com/user-attachments/assets/41ad190c-500d-4f96-941d-c1103b03fa24)
 
-# For installation [continue on the oficial website](https://octoprint.org/download/) or use intractions below
+# For installation [continue on the official website](https://octoprint.org/download/) or use intractions below
 
-<h1 id="octopi">OctoPi</h1>
 
 <p><a href="https://github.com/guysoft">Guy Sheffer</a> maintains <a href="https://github.com/guysoft/OctoPi">“OctoPi”</a>,
 a <a href="https://www.raspbian.org/">Raspbian (and thus Debian) based</a> SD card image for the Raspberry Pi
